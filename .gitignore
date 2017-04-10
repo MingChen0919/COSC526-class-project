@@ -1,3 +1,4 @@
-derby.log
-./nlp_spark
-./metastore_db
+*log
+/nlp_spark
+/metastore_db
+.DS_Store

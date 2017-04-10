@@ -1,4 +1,5 @@
 *log
 /nlp_spark
 /metastore_db
+/.ipynb_checkpoints
 .DS_Store

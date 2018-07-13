@@ -1,0 +1,1 @@
+# [Biomedical text mining to discover how BCL-2 genes interact with family genes to regulate apoptosis](https://github.com/MingChen0919/COSC526-class-project/blob/master/COSC526-project-presentation.pdf)
